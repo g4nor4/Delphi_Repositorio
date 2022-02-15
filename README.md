@@ -1,4 +1,4 @@
-## Projetos desenvolvidos pelo IDE Delphi
+## Projetos desenvolvidos pelo Delphi
 
 ## Cursos gratuitos
 
