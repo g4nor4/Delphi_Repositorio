@@ -17,7 +17,7 @@
  - [x] <b>Aula 07 - Tela de Cadastro Completa</b>
  - [x] <b>Aula 08 - Iniciando com Banco de Dados</b>
  - [x] <b>Aula 09 - <a href="https://github.com/g4nor4/Delphi_Repositorio/tree/master/Agenda">Criando uma agenda de Contatos</a></b> 
- - [ ] <b>Aula 10 - Criando um Sistema de Clinica Médica parte 1</b>
+ - [ ] <b>Aula 10 - <a href= "https://github.com/g4nor4/Delphi_Repositorio/tree/master/Sistema_ClinicaMedica/img_SistemaClinica">Criando um Sistema de Clinica Médica parte 1</a></b>
  - [ ] <b>Aula 11 - Criando um Sistema de Clinica Médica parte 2</b>
  - [ ] <b>Aula 12 - Criando um Sistema de Clinica Médica parte 3</b>
  - [ ] <b>Aula 13 - Conceito de Bancos de Dados - SELECT</b>
