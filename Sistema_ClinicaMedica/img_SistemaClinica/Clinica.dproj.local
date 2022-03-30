@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/28 14:49:29.000.840,=C:\Users\gabriela.nora\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 14:51:17.000.794,C:\Users\gabriela.nora\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\gabriela.nora\Desktop\Delphi_Repositorio\Delphi_Repositorio\Sistema_ClinicaMedica\img_SistemaClinica\unitPrincipal.dfm</Transaction>
+    <Transaction>2022/03/28 14:51:17.000.794,C:\Users\gabriela.nora\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\gabriela.nora\Desktop\Delphi_Repositorio\Delphi_Repositorio\Sistema_ClinicaMedica\img_SistemaClinica\unitPrincipal.pas</Transaction>
+    <Transaction>2022/03/28 14:51:30.000.012,C:\Users\gabriela.nora\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\gabriela.nora\Desktop\Delphi_Repositorio\Delphi_Repositorio\Sistema_ClinicaMedica\img_SistemaClinica\Clinica.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

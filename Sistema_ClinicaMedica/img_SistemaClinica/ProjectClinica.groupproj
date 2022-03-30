@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{EC555EA8-1CDF-4C03-B74F-3644068B7B0A}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Clinica.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\..\..\Nova pasta\Project1.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Clinica">
+        <MSBuild Projects="Clinica.dproj"/>
+    </Target>
+    <Target Name="Clinica:Clean">
+        <MSBuild Projects="Clinica.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Clinica:Make">
+        <MSBuild Projects="Clinica.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project1">
+        <MSBuild Projects="..\..\..\..\Nova pasta\Project1.dproj"/>
+    </Target>
+    <Target Name="Project1:Clean">
+        <MSBuild Projects="..\..\..\..\Nova pasta\Project1.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project1:Make">
+        <MSBuild Projects="..\..\..\..\Nova pasta\Project1.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Clinica;Project1"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Clinica:Clean;Project1:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Clinica:Make;Project1:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
