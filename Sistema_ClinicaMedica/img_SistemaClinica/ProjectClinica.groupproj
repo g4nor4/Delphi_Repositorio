@@ -6,9 +6,6 @@
         <Projects Include="Clinica.dproj">
             <Dependencies/>
         </Projects>
-        <Projects Include="..\..\..\..\Nova pasta\Project1.dproj">
-            <Dependencies/>
-        </Projects>
     </ItemGroup>
     <ProjectExtensions>
         <Borland.Personality>Default.Personality.12</Borland.Personality>
@@ -26,23 +23,14 @@
     <Target Name="Clinica:Make">
         <MSBuild Projects="Clinica.dproj" Targets="Make"/>
     </Target>
-    <Target Name="Project1">
-        <MSBuild Projects="..\..\..\..\Nova pasta\Project1.dproj"/>
-    </Target>
-    <Target Name="Project1:Clean">
-        <MSBuild Projects="..\..\..\..\Nova pasta\Project1.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="Project1:Make">
-        <MSBuild Projects="..\..\..\..\Nova pasta\Project1.dproj" Targets="Make"/>
-    </Target>
     <Target Name="Build">
-        <CallTarget Targets="Clinica;Project1"/>
+        <CallTarget Targets="Clinica"/>
     </Target>
     <Target Name="Clean">
-        <CallTarget Targets="Clinica:Clean;Project1:Clean"/>
+        <CallTarget Targets="Clinica:Clean"/>
     </Target>
     <Target Name="Make">
-        <CallTarget Targets="Clinica:Make;Project1:Make"/>
+        <CallTarget Targets="Clinica:Make"/>
     </Target>
     <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
 </Project>

@@ -4,13 +4,21 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.Menus;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.Menus, Vcl.StdCtrls,
+  Vcl.Buttons, Vcl.Imaging.jpeg;
 
 type
   TForm1 = class(TForm)
     MainMenu1: TMainMenu;
+    Sistema1: TMenuItem;
+    Sair1: TMenuItem;
+    Paciente1: TMenuItem;
     Pacientes1: TMenuItem;
-    Agendamento1: TMenuItem;
+    Pacientes2: TMenuItem;
+    Panel1: TPanel;
+    BitBtn2: TBitBtn;
+    BitBtn1: TBitBtn;
+    Image1: TImage;
   private
     { Private declarations }
   public
