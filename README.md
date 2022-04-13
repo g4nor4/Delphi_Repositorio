@@ -20,6 +20,7 @@
  - [x] <b>Aula 06 - Criando Menus</b>      
  - [x] <b>Aula 07 - Tela de Cadastro Completa</b>
  - [x] <b>Aula 08 - Iniciando com Banco de Dados</b>
+      > Xammp (apache, mysql),para acessar o banco de dados ir em um navegador e pesquisar por <a             href="localhost/phpmyadmin">localhost/phpmyadmin</a>
  - [x] <b>Aula 09 - <a href="https://github.com/g4nor4/Delphi_Repositorio/tree/master/Agenda">Criando uma agenda de Contatos</a></b> 
       > Nesta aula foi desenvolvida uma agenda de contatos usando um banco de dados.
  - [ ] <b>Aula 10 - <a href= "https://github.com/g4nor4/Delphi_Repositorio/tree/master/Sistema_ClinicaMedica/img_SistemaClinica">Criando um Sistema de Clinica Médica parte 1</a></b>
