@@ -9,27 +9,21 @@
 
 ## Delphi para iniciantes 
  - [x] <b>Aula 01 - O que é Delphi?</b>
-       
-       Delphi é uma IDE, resumido em uma setença simples "um programa para criar outros programas"
- - [x] <b>Aula 02 - Instalando o Delphi </b>
-       
-       Acessar o link: https://www.embarcadero.com/br/products/delphi/start-for-free, e realizar o cadastro para o acesso gratuito. 
+    > Delphi é uma IDE, resumido em uma sentença simples "um programa para criar outros programas"
+ - [x] <b>Aula 02 - Instalando o Delphi </b> 
+     > Acessar o link: https://www.embarcadero.com/br/products/delphi/start-for-free, e realizar o cadastro para o acesso gratuito. 
  - [x] <b>Aula 03 - Primeiro Sistema</b>
-
-       Nesta aula foi passado sobre o conceito dos botões, labels....propriedades de telas em geral
+     > Nesta aula foi passado sobre o conceito dos botões, labels....propriedades de telas em geral
  - [x] <b>Aula 04 - Criação de telas</b>
-
-        Foi criado uma tela simples de um cadastro de livros. 
+     > Foi criado uma tela simples de um cadastro de livros. 
  - [x] <b>Aula 05 - Componentes Containers</b> 
  - [x] <b>Aula 06 - Criando Menus</b>      
  - [x] <b>Aula 07 - Tela de Cadastro Completa</b>
  - [x] <b>Aula 08 - Iniciando com Banco de Dados</b>
  - [x] <b>Aula 09 - <a href="https://github.com/g4nor4/Delphi_Repositorio/tree/master/Agenda">Criando uma agenda de Contatos</a></b> 
-         
-         nesta aula foi desenvolvida uma agenda de contatos usando um banco de dados.
+      > Nesta aula foi desenvolvida uma agenda de contatos usando um banco de dados.
  - [ ] <b>Aula 10 - <a href= "https://github.com/g4nor4/Delphi_Repositorio/tree/master/Sistema_ClinicaMedica/img_SistemaClinica">Criando um Sistema de Clinica Médica parte 1</a></b>
-        
-        foi desenvolvida a interface do sistema.
+     > Foi desenvolvida a interface do sistema.
  - [ ] <b>Aula 11 - Criando um Sistema de Clinica Médica parte 2</b>
  - [ ] <b>Aula 12 - Criando um Sistema de Clinica Médica parte 3</b>
  - [ ] <b>Aula 13 - Conceito de Bancos de Dados - SELECT</b>
