@@ -42,5 +42,8 @@
  - [ ] <b>Aula 25 - Criando um Sistema de Controle de Estoque - SELECT</b>
  - [ ] <b>Aula 26 - Criando um Sistema de Controle de Estoque - SELECT</b>
  - [ ] <b>Live - 10/06/2020 - Aula ao vivo</b>
-  
+ 
+ ## Sistema de escola completo
+ 
+ ## Delphi Academy
   
