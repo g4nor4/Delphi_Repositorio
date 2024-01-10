@@ -1,5 +1,6 @@
 ## Projetos desenvolvidos pelo Delphi
 
+Dica nunca instale DELPHI no computador de uma empresa!! os caras são sacana e vão achar seu IP e cobrar a sua empresa! aprendi isso da pior maneira 
 
 ### Cursos gratuitos
 
